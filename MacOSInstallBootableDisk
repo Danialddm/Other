@@ -1,0 +1,2 @@
+Firstly, install the OS.dmg file and copy that into application folder and then run the below command:
+sudo '/Applications/Install OS X Mavericks.app/Contents/Resources/createinstallmedia' --volume '/Volumes/Mavericks' --applicationpath '/Applications/Install OS X Mavericks.app' --nointeraction
